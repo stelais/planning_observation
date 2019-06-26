@@ -57,7 +57,7 @@ def main():
         fig.subplots_adjust(hspace=0.5)
 
 
-        if see_sun == 'yes'
+        if see_sun == 'yes':
             sun = targeting_sun(observe_time)
 
             ax = plt.subplot(1, 2, 1)
