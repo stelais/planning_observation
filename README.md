@@ -17,5 +17,8 @@ Sirius:
 ![alt text](https://github.com/stelais/planning_observation/blob/master/Sirius.png)
 
 
-Target TIC 115015715. This one is missing the info of the observatory and timezone, because when I generated it, the line command was commented.
+Target TIC 115015715. This one is missing the info of the observatory and timezone, because when I generated it, the command plt.text was commented.
 ![alt text](https://github.com/stelais/planning_observation/blob/master/115015715.png)
+
+Target TIC 143821840. Also missing the info of the observatory and timezone for same reason. 
+![alt text](https://github.com/stelais/planning_observation/blob/master/143821840.png)
