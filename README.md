@@ -22,3 +22,8 @@ Target TIC 115015715. This one is missing the info of the observatory and timezo
 
 Target TIC 143821840. Also missing the info of the observatory and timezone for same reason. 
 ![alt text](https://github.com/stelais/planning_observation/blob/master/143821840.png)
+
+
+++++++++++++++++++++++
+I added something here. The new script: best_dates.py generates a table with the observability of each target over the time. Observable (yes - 1) or not observable (no - 0). That way we can keep track of the best nights to observe.
+The table sums the # of wanted targets we can observe. And also produces a graph to visualize this.
